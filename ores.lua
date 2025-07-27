@@ -70,7 +70,6 @@ return {
         { Name = "Hamarrium", ID = 76 },
         { Name = "Bloodhorn", ID = 77 },
         { Name = "Redone", ID = 78 },
-        { Name = "Lavaspine", ID = 79 },
         { Name = "Oldroot", ID = 80 },
         { Name = "Dreadstone", ID = 81 },
         { Name = "Entitycore", ID = 82 },
