@@ -8,7 +8,7 @@ return {
     Crab = {ModelName = "crab", ParentName = "crabZone", DefaultColor = Color3.fromRGB(62, 63, 95)},
     CrushHead = {ModelName = "crushHead", ParentName = "crushHeadZone", DefaultColor = Color3.fromRGB(255, 255, 255)},
     Log = {ModelName = "log", ParentName = "golemBossFight", DefaultColor = Color3.fromRGB(255, 255, 255)},
-    Hollow = {ModelName = "hollow", ParentName = "hollowHeadZone", DefaultColor = Color3.fromRGB(255, 255, 255)},
-    AraxiaTheFallenLord = {ModelName = "araxiaTheFallenLord", ParentName = "araxiaBossFight", DefaultColor = Color3.fromRGB(255, 255, 255)},
+    Hollow = {ModelName = "hollow", ParentName = "hollowHeadZone", HasSubModel = true DefaultColor = Color3.fromRGB(255, 255, 255)},
+    AraxiaTheFallenLord = {ModelName = "araxiaTheFallenLord", ParentName = "araxiaBossFight", HasSubModel = true DefaultColor = Color3.fromRGB(255, 255, 255)},
     AraxiumSkelly = {ModelName = "AraxiumSkelly", ParentName = "AraxiumSkellyZone", DefaultColor = Color3.fromRGB(255, 255, 255)},
 }
