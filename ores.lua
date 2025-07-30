@@ -62,6 +62,7 @@ return {
         { Name = "Araxium", ID = 65 },
     },
     Tier5 = {
+        { Name = "Grassium", ID = 28 },        
         { Name = "Purequartz", ID = 71 },
         { Name = "BloodResin", ID = 72 },
         { Name = "Ancienticeium", ID = 73 },        
